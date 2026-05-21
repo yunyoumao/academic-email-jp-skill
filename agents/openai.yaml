@@ -1,0 +1,5 @@
+interface:
+  display_name: "Academic Email JP"
+  short_description: "Draft concise, natural Japanese academic emails."
+  default_prompt: "Draft a Japanese academic email for a professor, supervisor, collaborator, or university office using the user-provided context."
+

@@ -1,0 +1,12 @@
+.codex/
+.claude/
+AGENTS.md
+CLAUDE.md
+private/
+notes/
+handoff.md
+project-memory/
+*.bak
+*.tmp
+*.log
+
