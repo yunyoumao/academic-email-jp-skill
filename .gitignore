@@ -9,4 +9,6 @@ project-memory/
 *.bak
 *.tmp
 *.log
-
+__pycache__/
+*.py[cod]
+.pytest_cache/
