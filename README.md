@@ -62,6 +62,8 @@ academic-email-jp-skill/
 │   └── openai.yaml
 ├── docs/
 │   └── references.md
+├── scripts/
+│   └── validate_examples.py
 ├── quality-checklist.md
 └── examples/
     ├── manuscript-check/
@@ -77,6 +79,14 @@ All examples in this repository are synthetic. Do not publish real professor ema
 ## Status
 
 Public v0.1. The skill is usable as a focused drafting aid and will be improved with more synthetic examples and scenario checks.
+
+## Validation
+
+```powershell
+python scripts\validate_examples.py
+```
+
+The validator checks example structure, obvious personal-data patterns, local paths, credentials, and assistant-like self-proving phrases in outputs.
 
 ## References
 

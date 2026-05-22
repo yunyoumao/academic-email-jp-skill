@@ -14,6 +14,7 @@ Use this checklist before publishing an example or release.
 - [ ] The tone is not over-humble for a low-burden request.
 - [ ] The draft contains no self-proving language.
 - [ ] The draft contains no real personal data.
+- [ ] `python scripts/validate_examples.py` passes.
 
 ## Red Flags
 
@@ -38,4 +39,3 @@ For recommendation letters, urgent exceptions, or special support, confirm:
 - [ ] materials attached,
 - [ ] why this recipient is being asked,
 - [ ] enough lead time is acknowledged.
-
